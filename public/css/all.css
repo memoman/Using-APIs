@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    padding: 10px;
+}
+
+.text-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 50%;
+    background-color: lightsalmon;
+    padding: 10px;
+    font-size: 24px;
+    border-radius: 25px;
+}
+
+img {
+    border-radius: 25px;
+}
+
+.loclist {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}

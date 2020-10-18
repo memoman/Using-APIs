@@ -1,0 +1,35 @@
+#putithere,
+#container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-evenly;
+}
+
+.text-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 500px;
+    background-color: lightsalmon;
+    padding: 10px;
+    font-size: 24px;
+    border-radius: 25px;
+}
+
+img {
+    border-radius: 25px;
+}
+
+.loclist {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+button {
+    padding: 10px;
+    font-size: 20px;
+    margin-left: 10px;
+}
