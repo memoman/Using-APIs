@@ -79,6 +79,7 @@ app.get('/weather', async (request, response) => {
     let lat = request.query.lat;
     let lon = request.query.lon;
     const api_key = process.env.API_KEY;
+    console.log(`api_key: ${api_key}`)
     const wxresponse = await fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&units=imperial&APPID=${api_key}`)
     const wxdata = await wxresponse.json();
     console.log('wxdata');
@@ -92,6 +93,7 @@ app.get('/aqi', async (request, response) => {
     let lat = request.query.lat;
     let lon = request.query.lon;
     const token = process.env.AQI_KEY;
+    console.log(`aqi: ${token}`);
     const aqiresponse = await fetch(`https://api.waqi.info/feed/geo:${lat};${lon}/?token=${token}`)
     const aqidata = await aqiresponse.json();
     console.log('aqidata');

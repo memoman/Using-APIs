@@ -21,6 +21,7 @@
 {"loc":"JAS","lat":47.6887,"lon":-122.3212,"temp":57.74,"desc":"overcast clouds","icon":"04d","aqi":34,"dominentpol":"pm25","cityname":"Olive St, Seattle, Washington, USA","timestamp":1602874631982,"_id":"6eUtkGLUEjVeMV5d"}
 {"loc":"JAS","lat":47.6887,"lon":-122.3212,"temp":52.57,"desc":"light rain","aqi":21,"dominentpol":"pm25","cityname":"Olive St, Seattle, Washington, USA","timestamp":1602455299729,"_id":"6t4eTEojQEQHAgKH"}
 {"loc":"JAS","lat":47.6887,"lon":-122.3212,"temp":52.66,"desc":"moderate rain","aqi":17,"dominentpol":"pm25","cityname":"Olive St, Seattle, Washington, USA","timestamp":1602455592346,"_id":"76IRLCTJLcJbCVus"}
+{"loc":"WMS","lat":29.5878,"lon":-98.5411,"temp":72.9,"desc":"scattered clouds","icon":"03d","aqi":25,"dominentpol":"pm25","cityname":"San Antonio Northwest, San Antonio, Texas","timestamp":1603111124566,"_id":"79ui1OAuAWHjgMyy"}
 {"loc":"CVX","lat":45.3199,"lon":-85.2591,"temp":33.6,"desc":"overcast clouds","icon":"04d","aqi":43,"dominentpol":"pm25","cityname":"Eliza Howell- Roadway, Michigan, USA","timestamp":1602850573573,"_id":"8CO4byPOFVVubxCp"}
 {"loc":"JAS","lat":47.6887,"lon":-122.3212,"temp":50.77,"desc":"clear sky","aqi":59,"dominentpol":"pm25","cityname":"Olive St, Seattle, Washington, USA","timestamp":1602779846583,"_id":"8UF5QKoni31gBg8E"}
 {"loc":"CVX","lat":45.3199,"lon":-85.2591,"temp":49.5,"desc":"broken clouds","aqi":13,"dominentpol":"pm25","cityname":"Eliza Howell- Roadway, Michigan, USA","timestamp":1602498517760,"_id":"9GkAoseR1VaCd5eB"}
@@ -48,6 +49,7 @@
 {"loc":"WMS","lat":29.5878,"lon":-98.5411,"temp":95.38,"desc":"clear sky","aqi":41,"dominentpol":"o3","cityname":"San Antonio Northwest, San Antonio, Texas","timestamp":1602454810127,"_id":"FfucqIMc0VjMztJw"}
 {"loc":"RJS","lat":42.5452,"lon":-83.2429,"temp":53.46,"desc":"broken clouds","aqi":40,"dominentpol":"pm25","cityname":"Dearborn, Michigan, USA","timestamp":1602781307799,"_id":"FnHFM46LXUcVz2Fd"}
 {"loc":"RJS","lat":42.5452,"lon":-83.2429,"temp":33.8,"desc":"clear sky","icon":"01d","aqi":40,"dominentpol":"pm25","cityname":"Dearborn, Michigan, USA","timestamp":1602850574356,"_id":"GKMLspNSbuX9xpq6"}
+{"loc":"RJS","lat":42.5452,"lon":-83.2429,"temp":40.19,"desc":"overcast clouds","icon":"04d","aqi":18,"dominentpol":"pm25","cityname":"Military Park, Michigan, USA","timestamp":1603111124671,"_id":"GMkcfRY4kBVi5dVd"}
 {"loc":"JES","lat":34.1541,"lon":-118.4948,"temp":75.11,"desc":"clear sky","aqi":55,"dominentpol":"pm25","cityname":"Reseda, Los Angeles","timestamp":1602779846569,"_id":"GQP2lNJSqIFh2Ojw"}
 {"loc":"CVX","lat":45.3199,"lon":-85.2591,"temp":38.46,"desc":"overcast clouds","icon":"04d","aqi":43,"dominentpol":"pm25","cityname":"Eliza Howell- Roadway, Michigan, USA","timestamp":1602936954208,"_id":"GWcX16CuiAUXSlHF"}
 {"loc":"JES","lat":34.1541,"lon":-118.4948,"temp":77.25,"desc":"clear sky","aqi":61,"dominentpol":"pm25","cityname":"Reseda, Los Angeles","timestamp":1602455488766,"_id":"GbR2zPZCrnAVPbCE"}
@@ -130,6 +132,7 @@
 {"loc":"RJS","lat":42.5452,"lon":-83.2429,"temp":61.23,"desc":"overcast clouds","aqi":25,"dominentpol":"pm25","cityname":"Military Park, Michigan, USA","timestamp":1602456098523,"_id":"dcQCxbavwfPvVkgp"}
 {"loc":"JIS","lat":41.9168,"lon":-87.6761,"temp":65.07,"desc":"few clouds","aqi":44,"dominentpol":"pm25","cityname":"Chi_sp, Illinois, USA","timestamp":1602455299798,"_id":"dqQ0eIzIQpCEfGun"}
 {"loc":"JAS","lat":47.6887,"lon":-122.3212,"temp":52.66,"desc":"moderate rain","aqi":17,"dominentpol":"pm25","cityname":"Olive St, Seattle, Washington, USA","timestamp":1602455530371,"_id":"dv9GK39M077uccqO"}
+{"loc":"JIS","lat":41.9168,"lon":-87.6761,"temp":39.04,"desc":"overcast clouds","icon":"04d","aqi":33,"dominentpol":"pm25","cityname":"Chi_sp, Illinois, USA","timestamp":1603111124782,"_id":"eYfkZAjvoifG1oJN"}
 {"loc":"RJS","lat":42.5452,"lon":-83.2429,"temp":61.95,"desc":"clear sky","aqi":25,"dominentpol":"pm25","cityname":"Military Park, Michigan, USA","timestamp":1602454850446,"_id":"egCI3FgocmYJsLgb"}
 {"loc":"JAS","lat":47.6887,"lon":-122.3212,"temp":58.44,"desc":"overcast clouds","icon":"04d","aqi":17,"dominentpol":"pm25","cityname":"Olive St, Seattle, Washington, USA","timestamp":1603054354318,"_id":"eqPalx5gch0edX8K"}
 {"loc":"JAS","lat":47.6887,"lon":-122.3212,"temp":46.62,"desc":"few clouds","aqi":21,"dominentpol":"pm25","cityname":"Olive St, Seattle, Washington, USA","timestamp":1602776390801,"_id":"f5s3fmJYjOv5TOPl"}
@@ -171,9 +174,11 @@
 {"loc":"CVX","lat":45.3199,"lon":-85.2591,"temp":42.31,"desc":"light rain","icon":"10d","aqi":21,"dominentpol":"pm25","cityname":"Eliza Howell- Roadway, Michigan, USA","timestamp":1603023768465,"_id":"q2zEV9MoLUVjjvDp"}
 {"loc":"RJS","lat":42.5452,"lon":-83.2429,"temp":52.07,"desc":"overcast clouds","icon":"04d","aqi":40,"dominentpol":"pm25","cityname":"Dearborn, Michigan, USA","timestamp":1602787036552,"_id":"qbrTmybOXmzx9JVz"}
 {"loc":"CVX","lat":45.3199,"lon":-85.2591,"temp":46.06,"desc":"overcast clouds","aqi":21,"dominentpol":"pm25","cityname":"Eliza Howell- Roadway, Michigan, USA","timestamp":1602786599999,"_id":"qgB2M0CX2haZFwmq"}
+{"loc":"JAS","lat":47.6887,"lon":-122.3212,"temp":53.76,"desc":"broken clouds","icon":"04n","aqi":9,"dominentpol":"pm25","cityname":"Olive St, Seattle, Washington, USA","timestamp":1603111124732,"_id":"rqJYzaYDsWEANrG9"}
 {"loc":"WMS","lat":29.5878,"lon":-98.5411,"temp":78.3,"desc":"overcast clouds","aqi":50,"dominentpol":"pm25","cityname":"San Antonio Northwest, San Antonio, Texas","timestamp":1602781307748,"_id":"sDW1h3c6hrVyCqMq"}
 {"loc":"JIS","lat":41.9168,"lon":-87.6761,"temp":55.8,"desc":"overcast clouds","icon":"04d","aqi":24,"dominentpol":"pm25","cityname":"Chi_sp, Illinois, USA","timestamp":1603023768487,"_id":"sOFLqUJFO7VoEw8g"}
 {"loc":"CVX","lat":45.3199,"lon":-85.2591,"temp":46.06,"desc":"overcast clouds","aqi":21,"dominentpol":"pm25","cityname":"Eliza Howell- Roadway, Michigan, USA","timestamp":1602786216249,"_id":"smgQyXoNTKQ4Vs2K"}
+{"loc":"CVX","lat":45.3199,"lon":-85.2591,"temp":33.08,"desc":"overcast clouds","icon":"04d","aqi":38,"dominentpol":"pm25","cityname":"Eliza Howell- Roadway, Michigan, USA","timestamp":1603111124648,"_id":"tfzmMN6XwVWaJKgI"}
 {"loc":"JAS","lat":47.6887,"lon":-122.3212,"temp":55.94,"desc":"scattered clouds","icon":"03d","aqi":72,"dominentpol":"pm25","cityname":"Olive St, Seattle, Washington, USA","timestamp":1602787036535,"_id":"u6CEbogJp5tPfcgI"}
 {"loc":"WMS","lat":29.5878,"lon":-98.5411,"temp":58.55,"desc":"overcast clouds","icon":"04n","aqi":25,"dominentpol":"o3","cityname":"San Antonio Northwest, San Antonio, Texas","timestamp":1602936954490,"_id":"uA6PB1ue09CpWaEU"}
 {"loc":"CVX","lat":45.3199,"lon":-85.2591,"temp":58.73,"desc":"clear sky","aqi":25,"dominentpol":"pm25","cityname":"Eliza Howell- Roadway, Michigan, USA","timestamp":1602454810123,"_id":"uXR8RwgzVpm5F80I"}
@@ -185,6 +190,7 @@
 {"loc":"RJS","lat":42.5452,"lon":-83.2429,"temp":54.36,"desc":"overcast clouds","aqi":40,"dominentpol":"pm25","cityname":"Dearborn, Michigan, USA","timestamp":1602776390804,"_id":"vIoFA40xDMJIFXCW"}
 {"loc":"JAS","lat":47.6887,"lon":-122.3212,"temp":52.66,"desc":"moderate rain","aqi":17,"dominentpol":"pm25","cityname":"Olive St, Seattle, Washington, USA","timestamp":1602455488775,"_id":"w401YviADQihzAhS"}
 {"loc":"JIS","lat":41.9168,"lon":-87.6761,"temp":54.3,"desc":"broken clouds","icon":"04d","aqi":46,"dominentpol":"pm25","cityname":"Chi_sp, Illinois, USA","timestamp":1602787088466,"_id":"wH6YJua24FdtztNs"}
+{"loc":"JES","lat":34.1541,"lon":-118.4948,"temp":60.73,"desc":"clear sky","icon":"01n","aqi":53,"dominentpol":"pm25","cityname":"Reseda, Los Angeles","timestamp":1603111124672,"_id":"wSm0LsOVt0gQnDWh"}
 {"loc":"WMS","lat":29.5878,"lon":-98.5411,"temp":90.03,"desc":"clear sky","icon":"01d","aqi":38,"dominentpol":"pm25","cityname":"San Antonio Northwest, San Antonio, Texas","timestamp":1603054354249,"_id":"wWMQzjjAmERetDwC"}
 {"loc":"WMS","lat":29.5878,"lon":-98.5411,"temp":90.37,"desc":"clear sky","aqi":33,"dominentpol":"o3","cityname":"San Antonio Northwest, San Antonio, Texas","timestamp":1602534334676,"_id":"x5TMzmaOjSqV4lrG"}
 {"loc":"RJS","lat":42.5452,"lon":-83.2429,"temp":51.67,"desc":"overcast clouds","aqi":15,"dominentpol":"pm25","cityname":"Military Park, Michigan, USA","timestamp":1602498517802,"_id":"xRHTuEHcTlZjAMnI"}
@@ -196,9 +202,3 @@
 {"loc":"CVX","lat":45.3199,"lon":-85.2591,"temp":45.19,"desc":"light rain","icon":"10d","aqi":21,"dominentpol":"pm25","cityname":"Eliza Howell- Roadway, Michigan, USA","timestamp":1602787036550,"_id":"zFo6ek5HBbQyYH1b"}
 {"loc":"WMS","lat":29.5878,"lon":-98.5411,"temp":95.38,"desc":"clear sky","aqi":41,"dominentpol":"o3","cityname":"San Antonio Northwest, San Antonio, Texas","timestamp":1602454850444,"_id":"zSgSX0GGz3qvBqYn"}
 {"loc":"JIS","lat":41.9168,"lon":-87.6761,"temp":54.57,"desc":"broken clouds","icon":"04d","aqi":46,"dominentpol":"pm25","cityname":"Chi_sp, Illinois, USA","timestamp":1602787759977,"_id":"zdOxVKUu6zbu1FgF"}
-{"loc":"WMS","lat":29.5878,"lon":-98.5411,"temp":72.9,"desc":"scattered clouds","icon":"03d","aqi":25,"dominentpol":"pm25","cityname":"San Antonio Northwest, San Antonio, Texas","timestamp":1603111124566,"_id":"79ui1OAuAWHjgMyy"}
-{"loc":"CVX","lat":45.3199,"lon":-85.2591,"temp":33.08,"desc":"overcast clouds","icon":"04d","aqi":38,"dominentpol":"pm25","cityname":"Eliza Howell- Roadway, Michigan, USA","timestamp":1603111124648,"_id":"tfzmMN6XwVWaJKgI"}
-{"loc":"RJS","lat":42.5452,"lon":-83.2429,"temp":40.19,"desc":"overcast clouds","icon":"04d","aqi":18,"dominentpol":"pm25","cityname":"Military Park, Michigan, USA","timestamp":1603111124671,"_id":"GMkcfRY4kBVi5dVd"}
-{"loc":"JES","lat":34.1541,"lon":-118.4948,"temp":60.73,"desc":"clear sky","icon":"01n","aqi":53,"dominentpol":"pm25","cityname":"Reseda, Los Angeles","timestamp":1603111124672,"_id":"wSm0LsOVt0gQnDWh"}
-{"loc":"JAS","lat":47.6887,"lon":-122.3212,"temp":53.76,"desc":"broken clouds","icon":"04n","aqi":9,"dominentpol":"pm25","cityname":"Olive St, Seattle, Washington, USA","timestamp":1603111124732,"_id":"rqJYzaYDsWEANrG9"}
-{"loc":"JIS","lat":41.9168,"lon":-87.6761,"temp":39.04,"desc":"overcast clouds","icon":"04d","aqi":33,"dominentpol":"pm25","cityname":"Chi_sp, Illinois, USA","timestamp":1603111124782,"_id":"eYfkZAjvoifG1oJN"}
